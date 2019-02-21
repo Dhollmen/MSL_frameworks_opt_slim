@@ -17,11 +17,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">Modificar ajustes del sistema Slim</string>
-  <string name="permdesc_writeSettings">Permitir que una aplicación modifique los ajustes del sistema Slim</string>
+  <string name="permlab_writeSettings">Modificar ajustes de Slim</string>
+  <string name="permdesc_writeSettings">Permitir que una aplicación modifique los ajustes de Slim</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">Modificar ajustes de seguridad del sistema Slim</string>
-  <string name="permdesc_writeSecureSettings">Permitir que una aplicación modifique los ajustes de seguridad del sistema Slim. No será usado por aplicaciones normales.</string>
+  <string name="permlab_writeSecureSettings">Modificar ajustes de seguridad de Slim</string>
+  <string name="permdesc_writeSecureSettings">Permitir que una aplicación modifique los ajustes de seguridad de Slim. No será usado por aplicaciones normales.</string>
   <!-- General Strings -->
   <string name="reset">Restablecer</string>
   <string name="disabled">Deshabilitado</string>
@@ -29,8 +29,8 @@
   <string name="attention">Atención</string>
   <string name="reset_message">¿Restablecer a valores predeterminados?</string>
   <string name="help_label">Ayuda &amp; comentarios</string>
-  <string name="no_home_key">¡No tiene ningún botón asignado a la acción \"Inicio\"!\n\n¡Esto puede inutilizar su dispositivo!</string>
-  <string name="no_back_key">¡Ya no tiene ningún botón asignado a la acción \"Regresar\"!\n\n¡Esto puede inutilizar su dispositivo!</string>
+  <string name="no_home_key">No tienes un botón asignado a la acción \"Inicio\"!\n\nEsto puede inutilizar el dispositivo!</string>
+  <string name="no_back_key">Ya no tienes un botón asignado a la acción \"Regresar\"!\n\nEsto puede inutilizar el dispositivo!</string>
   <!-- Shortcut actions -->
   <string name="shortcut_action_none">Ninguna</string>
   <string name="shortcut_action_menu">Menú</string>
@@ -48,10 +48,10 @@
   <string name="shortcut_action_qs">Panel de ajustes rápidos</string>
   <string name="shortcut_action_longpress">Pulsación larga:</string>
   <string name="shortcut_action_doubletap">Doble-Toque:</string>
-  <string name="shortcut_action_select_action_longpress">Seleccione la acción en pulsación larga:</string>
-  <string name="shortcut_action_select_action_doubletap">Escoger acción tras hacer un doble toque:</string>
-  <string name="shortcut_action_select_action">Escoger acción:</string>
-  <string name="shortcut_action_select_action_newaction">Escoger nueva acción:</string>
+  <string name="shortcut_action_select_action_longpress">Selecciona la acción en pulsación larga:</string>
+  <string name="shortcut_action_select_action_doubletap">Elegir acción tras hacer un doble toque:</string>
+  <string name="shortcut_action_select_action">Elegir acción:</string>
+  <string name="shortcut_action_select_action_newaction">Elegir nueva acción:</string>
   <string name="shortcut_action_reset">Restablecer</string>
   <string name="shortcut_action_add">Añadir</string>
   <string name="shortcut_action_reset_message">¿Restablecer a valores predeterminados?</string>
@@ -127,33 +127,33 @@
   <string name="shortcuts_icon_picker_transit">Transit</string>
   <string name="shortcuts_icon_picker_tv">TV</string>
   <string name="shortcuts_icon_picker_twitter">Twitter</string>
-  <string name="shortcuts_icon_picker_unlock">Unlock</string>
+  <string name="shortcuts_icon_picker_unlock">Desbloquear</string>
   <!-- Button shorcut actions -->
   <string name="shortcut_action_back">Retroceso</string>
   <string name="shortcut_action_app">Aplicación personalizada</string>
   <string name="shortcut_action_home">Inicio</string>
   <string name="shortcut_action_navbar">Barra de navegación</string>
-  <string name="shortcut_action_ime">Abrir selector del método de entrada</string>
+  <string name="shortcut_action_ime">Selector del método de entrada</string>
   <string name="shortcut_action_power_menu">Menú de apagado</string>
   <string name="shortcut_action_smart">Despliegue inteligente</string>
   <string name="shortcut_action_recent">Recientes</string>
-  <string name="shortcut_action_power">Deshabilitar pantalla</string>
+  <string name="shortcut_action_power">Apagar pantalla</string>
   <string name="shortcut_action_camera">Cámara</string>
   <string name="shortcut_action_assist">Búsqueda</string>
-  <string name="shortcut_action_search">Búsqueda en la aplicación</string>
+  <string name="shortcut_action_search">Búscar en la aplicación</string>
   <string name="shortcut_action_theme_switch">Selector de tema</string>
   <string name="shortcut_action_torch">Linterna</string>
-  <string name="shortcut_action_voice_search">Búsqueda por voz</string>
+  <string name="shortcut_action_voice_search">Buscar por voz</string>
   <string name="shortcut_action_nowontap">Google Now/ Now on Tap</string>
   <!-- Icon color options -->
-  <string name="icon_color_mode_all_icons">Todos los íconos</string>
-  <string name="icon_color_mode_system_icons">Íconos del sistema</string>
-  <string name="icon_color_mode_system_custom_icons">Íconos del sistema y personalizados</string>
+  <string name="icon_color_mode_all_icons">Todos los iconos</string>
+  <string name="icon_color_mode_system_icons">Iconos del sistema</string>
+  <string name="icon_color_mode_system_custom_icons">Iconos del sistema y personalizados</string>
   <!-- Slimseekbar -->
   <string name="default_string">Por defecto</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selección de color</string>
-  <string name="press_color_to_apply">Pulsa sobre el color para aplicar</string>
+  <string name="press_color_to_apply">Pulsa sobre el color a aplicar</string>
   <string name="hex">Hexadecimal:</string>
   <string name="set">Definir</string>
   <string name="color_default">Por defecto</string>
