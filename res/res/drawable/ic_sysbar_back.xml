@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (c) 2015 SlimRoms
+    Copyright (c) 2019 Tuxafgmur - Dhollmen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -14,19 +14,30 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="16.533dp"
-    android:height="19dp"
-    android:viewportWidth="16.533"
-    android:viewportHeight="19">
 
-    <path
-        android:fillColor="#fff"
-        android:pathData="M15.302
-18.984c-0.951-0.382-1.792-1.015-2.699-1.495-4.0596-2.373-8.1307-4.726-12.183-7.114-0.97268-0.7699-0.07257-1.938
-0.8444-2.2113 4.5924-2.693 9.1816-5.3901 13.783-8.0672 0.748-0.36831 1.612
-0.37985 1.471 1.1618 0 5.6328 0.04 11.268-0.007 16.9-0.116 0.537-0.659
-0.928-1.209 0.826zm-0.888-9.4812c-0.002-2.1896-0.003-4.3803-0.005-6.5699-3.747
-2.1938-7.4938 4.3898-11.241 6.5836 3.7493 2.1875 7.497 4.3775 11.251 6.5585
-0-2.191-0.003-4.381-0.005-6.5722z" />
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="15.51043"
+    android:viewportHeight="19.09553"
+    android:width="15.51043dp"
+    android:height="19.09553dp">
+    <group
+        android:translateX="-80.02434"
+        android:translateY="-80.51004">
+        <group
+            android:rotation="82.69434"
+            android:scaleX="0.2498075"
+            android:scaleY="0.2334303"
+            android:translateX="77.82134"
+            android:translateY="79.47964">
+            <group
+                android:rotation="-83.14688">
+                <path
+                    android:pathData="M9.0714272 41.22351L42.239518 22.72708 75.493956 4.3863485 74.928289 42.358973 74.184609 80.328526 41.582185 60.852332Z"
+                    android:fillColor="#FFFFFF"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="0.335"
+                    android:strokeLineCap="round" />
+            </group>
+        </group>
+    </group>
 </vector>
