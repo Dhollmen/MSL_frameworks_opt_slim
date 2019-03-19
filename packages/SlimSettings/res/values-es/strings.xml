@@ -25,7 +25,7 @@
   <string name="interface_settings_title">Interfaz</string>
   <string name="advanced_settings">Avanzados</string>
   <string name="quick_settings">Ajustes rápidos</string>
-  <string name="status_bar_icons">Íconos de la barra de estado</string>
+  <string name="status_bar_icons">Iconos de la barra de estado</string>
   <!-- Navigation settings -->
   <string name="navigation_settings_options_title">Opciones de navegación</string>
   <!-- Names of categories of app ops tabs - extension of AOSP -->
@@ -399,9 +399,9 @@
   <string name="nav_button_color_mode_summary">Cambiar el modo de color del botón de la barra de navegación</string>
   <string name="navigation_bar_glow_tint_title">Color del resplandor del botón</string>
   <!-- Icon color options -->
-  <string name="icon_color_mode_all_icons">Todos los íconos</string>
-  <string name="icon_color_mode_system_icons">Íconos del sistema</string>
-  <string name="icon_color_mode_system_custom_icons">Íconos del sistema y personalizados</string>
+  <string name="icon_color_mode_all_icons">Todos los iconos</string>
+  <string name="icon_color_mode_system_icons">Iconos del sistema</string>
+  <string name="icon_color_mode_system_custom_icons">Iconos del sistema y personalizados</string>
   <!-- Recent panel -->
   <string name="recent_panel_category">Panel de aplicaciones recientes</string>
   <string name="use_slim_recents_title">Recientes Slim</string>
@@ -432,7 +432,7 @@
   <string name="status_bar_show_clock_title">Mostrar fecha y hora</string>
   <string name="status_bar_clock_color_override">Utilizar color personalizado</string>
   <string name="status_bar_am_pm_title">AM/PM</string>
-  <string name="status_bar_am_pm_info">El formato de 24 horas ha sido habilitado</string>
+  <string name="status_bar_am_pm_info">El formato de 24 horas se ha habilitado</string>
   <string name="enable_clock_weekday">Día de la semana</string>
   <string name="enable_clock_weekday_summary">Día de la semana abreviado antes de la hora</string>
   <string name="right_clock">Reloj en la derecha</string>
